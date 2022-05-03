@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1638699121 source:c:\users\amani\documents\codeblocks\csv\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
